@@ -1,0 +1,12 @@
+
+xkubernetes:S6864	"*Specify a memory limit for this container.(ú—ûÿÿÿÿ8°îĞ¯2J$18ab77e0-cb4e-429e-a2df-30188a4b19a1
+skubernetes:S6864"*Specify a memory limit for this container.(Âœì§8°îĞ¯2J$9fa2a08d-8c2a-4de3-a8d3-90bf962a16b0
+xkubernetes:S6864'"*Specify a memory limit for this container.(Ú·ø½ÿÿÿÿÿ8Ù‘Ğ¯2J$1033bcd8-a372-441b-b251-ddcbd1cdc6b8
+rkubernetes:S6864>"*Specify a memory limit for this container.(¦œç	8Ù‘Ğ¯2J$2a999fef-2bdc-457d-b565-8f9fc7df8c8f
+›kubernetes:S6865"MSet automountServiceAccountToken to false for this specification of kind Pod.(ı²º’ùÿÿÿÿ8™¥Ğ¯2J$01c92b9d-5c74-4e72-8960-d474fdea875b
+¢kubernetes:S6865%"TSet automountServiceAccountToken to false for this specification of kind ReplicaSet.(ı²º’ùÿÿÿÿ8°îĞ¯2J$923c2840-b8af-4702-a719-40ba37f28f4d
+¢kubernetes:S6865<"TSet automountServiceAccountToken to false for this specification of kind Deployment.(ı²º’ùÿÿÿÿ8°îĞ¯2J$6ab21cfc-42b5-452f-9fbe-52ae5ae5cbf4
+ukubernetes:S6869	"'Specify a CPU limit for this container.(ú—ûÿÿÿÿ8°îĞ¯2J$c5cdfcac-8c54-4f7f-9c4d-5dfbcd7d8b81
+pkubernetes:S6869"'Specify a CPU limit for this container.(Âœì§8°îĞ¯2J$7c0ede8c-621d-4cbb-afe4-f261bc2f2f13
+ukubernetes:S6869'"'Specify a CPU limit for this container.(Ú·ø½ÿÿÿÿÿ8‘Ù‘Ğ¯2J$04e8402f-1e16-40d4-9620-82e259d6ea71
+okubernetes:S6869>"'Specify a CPU limit for this container.(¦œç	8‘Ù‘Ğ¯2J$44c29b87-33de-4721-897a-ed225de72219
